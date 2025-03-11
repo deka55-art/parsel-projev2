@@ -1,0 +1,14 @@
+{
+  "name": "parsel-bilgi-sistemi",
+  "version": "1.0.0",
+  "description": "Harita ve parsel yönetimi uygulaması",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
