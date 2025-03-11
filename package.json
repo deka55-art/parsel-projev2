@@ -4,7 +4,7 @@
   "description": "Harita ve parsel yönetimi uygulaması",
   "main": "index.html",
   "scripts": {
-    "start": "npm run build"  // Render bunu otomatik çalıştıracaktır
+    "start": "echo 'No start command needed for front-end projects'"
   },
   "dependencies": {},
   "devDependencies": {},
